@@ -8,4 +8,5 @@ This is my project using regarding working of MIPS processor.
 
 Hope this finds some help to you all!!
 ![Single Cycle Schematic](/Single_cycle/single_cycle.JPG)
+*Fig: Single cycle schematic of the MIPS processor.*
   Thank you!! 🤜🤛
