@@ -7,4 +7,5 @@ This is my project using regarding working of MIPS processor.
 - Since here, memories are different, it is a Von neuman Architecture style implementation.
 
 Hope this finds some help to you all!!
+![Single Cycle Schematic](/Single_cycle/single_cycle.JPG)
   Thank you!! 🤜🤛
